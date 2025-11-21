@@ -4,3 +4,9 @@ This is a project for The Odin Project where I will make a basic recipe website 
 
 
 Once it is completed I will have demonstrated basic understanding of HTML, website structuring, and eventually CSS to style the pages.
+
+The Odin Project: https://www.theodinproject.com/about
+
+Recipes courtesy of: https://www.allrecipes.com/
+
+All images sources through Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
