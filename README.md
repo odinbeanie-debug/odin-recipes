@@ -9,4 +9,4 @@ The Odin Project: https://www.theodinproject.com/about
 
 Recipes courtesy of: https://www.allrecipes.com/
 
-All images sources through Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
+All images sourced through Wikimedia Commons: https://commons.wikimedia.org/wiki/Main_Page
