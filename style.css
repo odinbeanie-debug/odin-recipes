@@ -2,6 +2,10 @@
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+body {
+    background-color: #F5F5F5;
+}
+
 #nav-bar {
     margin: 0px 0px 10px 0px;
     padding: 0px;
